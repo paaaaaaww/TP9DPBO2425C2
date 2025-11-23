@@ -52,4 +52,8 @@ Apabila pengguna menekan tombol Edit pada salah satu data, Presenter mengambil d
 Jika pengguna menekan tombol Hapus, Presenter akan menerima ID data yang ingin dihapus, kemudian memanggil Model untuk menghapus data dari database. Halaman daftar akan diperbarui secara otomatis. Dengan cara ini, View tidak berhubungan langsung dengan database; semua operasi CRUD dikelola melalui Presenter dan Model, sehingga arsitektur MVP tetap terjaga.
 
 **3. Dokumentasi**
-https://youtu.be/ECDy_CLYGKA
+
+Klik dibawah ini untuk menihat dokumentasi 
+
+[![Watch the video](https://img.youtube.com/vi/ECDy_CLYGKA/0.jpg)](https://youtu.be/ECDy_CLYGKA)
+
